@@ -1,1 +1,1 @@
-My first readme
+Technology is the future
